@@ -1,0 +1,40 @@
+Running Test 0 ...
+---- Test 0 ----
+Expected Output:
+The matching icon is 0
+Program Output:
+The matching icon is 0
+Test 0 passed! Output matches the expected test output.
+These tests do not represent the complete set of tests that will be run to grade your code.
+Running Test 3 ...
+---- Test 3 ----
+Expected Output:
+The matching icon is 3
+Program Output:
+The matching icon is 3
+Test 3 passed! Output matches the expected test output.
+These tests do not represent the complete set of tests that will be run to grade your code.
+Running Test 4 ...
+---- Test 4 ----
+Expected Output:
+The matching icon is 4
+Program Output:
+The matching icon is 4
+Test 4 passed! Output matches the expected test output.
+These tests do not represent the complete set of tests that will be run to grade your code.
+Running Test 5 ...
+---- Test 5 ----
+Expected Output:
+The matching icon is 5
+Program Output:
+The matching icon is 5
+Test 5 passed! Output matches the expected test output.
+These tests do not represent the complete set of tests that will be run to grade your code.
+Running Test 7 ...
+---- Test 7 ----
+Expected Output:
+The matching icon is 7
+Program Output:
+The matching icon is 7
+Test 7 passed! Output matches the expected test output.
+These tests do not represent the complete set of tests that will be run to grade your code.
